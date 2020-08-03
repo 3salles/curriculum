@@ -44,9 +44,8 @@ p {
 	margin: 0 0 16px 0; 
 }
 a { 
-	color: #999; 
+	color: #514f4f; 
 	text-decoration: none; 
-	border-bottom: 1px dotted #999; 
 }
 a:hover { 
 	border-bottom-style: solid; 
